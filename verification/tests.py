@@ -32,7 +32,7 @@ TESTS = {
         },
         {
             "input": "hello1olleh",
-            "answer": False
+            "answer": True
         },
 
 

@@ -9,6 +9,10 @@ def palindrome(code, runner=None):
         return False, "'#' is not allowed."
     return code == code[::-1], "This is not a palindrome"
 
+import sys
+
+print(CheckiOReferee.__dict__)
+
 api.add_listener(
     ON_CONNECT,
     CheckiOReferee(
