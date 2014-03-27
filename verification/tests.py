@@ -43,7 +43,7 @@ TESTS = {
             "answer": True
         },
         {
-            "input": "000000000000",
+            "input": "0000000000",
             "answer": True
         },
         {
